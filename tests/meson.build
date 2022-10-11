@@ -1,5 +1,5 @@
 test_sources = [
-  'test-system.vala',
+  # 'test-system.vala',
   'test-injector.vala',
   'test-agent.vala',
   'test-agent-glue.c',
