@@ -39,9 +39,7 @@ namespace Frida.Test {
 					break;
 			}
 		}
-
-		Frida.SystemTest.add_tests ();
-
+        
 		Frida.InjectorTest.add_tests ();
 
 		Frida.AgentTest.add_tests ();
